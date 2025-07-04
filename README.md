@@ -15,6 +15,6 @@ Hybrid Solar Photovoltaic and Wind Turbine
     </style>
 </head>
 <body>
-    <model-viewer src="" alt="A 3D model" auto-rotate camera-controls></model-viewer>
+    <model-viewer src="https://github.com/masoyi/Hybrid-Solar-Photovoltaic-and-Wind-Turbine/blob/main/bipv_cladding.glb" alt="A 3D model" auto-rotate camera-controls></model-viewer>
 </body>
 </html>
